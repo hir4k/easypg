@@ -1,0 +1,2 @@
+# easypg
+Automate Postgres Deployment
